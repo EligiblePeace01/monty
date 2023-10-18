@@ -16,7 +16,7 @@ Usage
 To use the Monty Language Generator, follow these steps:
 
 Clone the repository to your local machine:
-git clone https://github.com/stdjes/monty.git
+git clone https://github.com/EligiblePeace01/monty.git
 
 Navigate to the project directory: cd monty
 
